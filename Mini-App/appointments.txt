@@ -1,0 +1,3 @@
+User1|2025-12-01 12:00|Attended
+Paola|2025-01-26 12:00|Hasn't Attended
+Paola|2025-11-28 17:00|Hasn't Attended

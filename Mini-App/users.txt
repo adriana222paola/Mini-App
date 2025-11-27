@@ -1,0 +1,9 @@
+Admin|$2b$10$AQOcd8NNqiLRhmwyPA4QJu8v9ab4uJfpo/PGE5wNenAE5rhigzks6|admin
+User1|$2b$10$ZaZeCgy0sC3n52uXcJgTD.GcF5bcvIhJbHid9OkuKH.4l/8dCwEc2|user
+Admiin|$2b$10$rDmid1ZqIm/68cJ6W19hcuRHAmLLNBwiDscmOrojlakqUImTTwKmm|user
+User2|$2b$10$rZkQgW7v03xKiwdirLwMHOLWYENtMDDGsVYx7WUW8fkeFmP7Cn8bW|user
+User3|$2b$10$vKE6mUN5A98nQ9CLdP.fOOSWGklQfdsOOQ73tLxtka.YyMknIP2Ry|user
+User4|$2b$10$ANUpfpJlRlo.szObsd/TcOV/IsW8e9N/KoDPn/QOVUjHL1ozI26LS|user
+User5|$2b$10$GIhlDVf0MBC7GHLSac2tq.aL6/QXn2haXmFrVTM9T73iaOG9u2QZa|user
+User6|$2b$10$cNpCWqq4li9Q7hPmKe74H.ZOVnzf9147DxS9v6SaokwQTKaPiDbLy|user
+Paola|$2b$10$53BxXNEZ1KkgJGCRUGyQeue6iHTkA.hchcbzl3Q2.OEd8a3b2HHHG|user

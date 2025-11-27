@@ -1,0 +1,354 @@
+2025-11-25 21:05|Guest|User selected start menu option: 1
+2025-11-25 21:05|User1|register.
+2025-11-25 21:05|Guest|Choose register option.
+2025-11-25 21:05|Guest|User selected start menu option: 2
+2025-11-25 21:05|Guest|Choose login option
+2025-11-25 21:05|Admin|login
+2025-11-25 21:05|Admin|Selected main menu option: 5
+2025-11-25 21:05|Admin|Choose EXIT option.
+2025-11-25 21:05|Guest|User selected start menu option: 2
+2025-11-25 21:05|Guest|Choose login option
+2025-11-25 21:05|User1|login
+2025-11-25 21:05|User1|Selected main menu option: 1
+2025-11-25 21:05|User1|Invalid time during appointment creation.
+2025-11-25 21:05|User1|Choose create appointment option.
+2025-11-25 21:05|User1|Selected main menu option: 1
+2025-11-25 21:06|User1|create appointment
+2025-11-25 21:06|User1|Choose create appointment option.
+2025-11-25 21:06|User1|Selected main menu option: 1
+2025-11-25 21:06|User1|Invalid date during appointment creation.
+2025-11-25 21:06|User1|Choose create appointment option.
+2025-11-25 21:06|User1|Selected main menu option: 2
+2025-11-25 21:06|User1|read appointments
+2025-11-25 21:06|User1|Choose read appointment option.
+2025-11-25 21:06|User1|Selected main menu option: 5
+2025-11-25 21:06|User1|Choose EXIT option.
+2025-11-25 21:06|Guest|User selected start menu option: 2
+2025-11-25 21:06|Guest|Choose login option
+2025-11-25 21:06|Admin|login
+2025-11-25 21:06|Admin|Selected main menu option: 2
+2025-11-25 21:06|Admin|read appointments
+2025-11-25 21:06|Admin|Choose read appointment option.
+2025-11-25 21:06|Admin|Selected main menu option: 3
+2025-11-25 21:06|Admin|No matching appointment found during update.
+2025-11-25 21:06|Admin|Choose update appointment option.
+2025-11-25 21:46|Guest|User selected start menu option: 1
+2025-11-25 21:46|Admiin|register.
+2025-11-25 21:46|Guest|Choose register option.
+2025-11-25 21:46|Guest|User selected start menu option: 2
+2025-11-25 21:46|Guest|Choose login option
+2025-11-25 21:46|Admin|login
+2025-11-25 21:46|Admin|Selected main menu option: 3
+2025-11-25 21:46|Admin|Invalid date during appointment update.
+2025-11-25 21:46|Admin|Choose update appointment option.
+2025-11-25 21:49|Guest|User selected start menu option: 1
+2025-11-25 21:49|Guest|Choose register option.
+2025-11-25 21:49|Guest|User selected start menu option: 0
+2025-11-25 21:49|Guest|Invalid input in start menu.
+2025-11-25 21:49|Guest|Invalid choice input.
+2025-11-25 21:50|Guest|User selected start menu option: 1
+2025-11-25 21:50|Guest|Choose register option.
+2025-11-25 21:50|Guest|User selected start menu option: 0
+2025-11-25 21:50|Guest|Invalid input in start menu.
+2025-11-25 21:50|Guest|Invalid choice input.
+2025-11-25 21:50|Guest|User selected start menu option: 2
+2025-11-25 21:50|Guest|Choose login option
+2025-11-25 21:50|Admin|login
+2025-11-25 21:50|Admin|Selected main menu option: 3
+2025-11-25 21:50|Admin|Invalid date during appointment update.
+2025-11-25 21:50|Admin|Choose update appointment option.
+2025-11-25 22:08|Guest|User selected start menu option: 3
+2025-11-25 22:08|Guest|Choose EXIT option.
+2025-11-25 22:09|Guest|User selected start menu option: 2
+2025-11-25 22:09|Guest|Choose login option
+2025-11-25 22:09|Admin|login
+2025-11-25 22:09|Admin|Selected main menu option: 3
+2025-11-25 22:09|Admin|Target username not found during appointment update.
+2025-11-25 22:09|Admin|Choose update appointment option.
+2025-11-25 22:09|Admin|Selected main menu option: 0
+2025-11-25 22:09|Admin|Invalid input in appointment menu.
+2025-11-25 22:09|Admin|Invalid menu choice input.
+2025-11-25 22:19|Admin|Selected main menu option: 4
+2025-11-25 22:19|Admin|Target username not found during appointment deletion
+2025-11-25 22:19|Admin|Choose delete appointment option.
+2025-11-25 22:19|Admin|Selected main menu option: 54
+2025-11-25 22:19|Admin|Invalid menu choice input.
+2025-11-25 22:24|Guest|User selected start menu option: 2
+2025-11-25 22:24|Guest|Choose login option
+2025-11-25 22:24|Admin|login
+2025-11-25 22:24|Admin|Selected main menu option: 3
+2025-11-25 22:24|Admin|Invalid username during appointment update.
+2025-11-25 22:24|Admin|Choose update appointment option.
+2025-11-25 22:24|Admin|Selected main menu option: 5
+2025-11-25 22:24|Admin|Choose EXIT option.
+2025-11-25 22:24|Guest|User selected start menu option: 3
+2025-11-25 22:24|Guest|Choose EXIT option.
+2025-11-26 17:57|Guest|User selected start menu option: 1
+2025-11-26 17:57|Guest|Choose register option.
+2025-11-26 18:16|Guest|User selected start menu option: 1
+2025-11-26 18:16|User2|Register.
+2025-11-26 18:16|Guest|Choose register option.
+2025-11-26 18:16|Guest|User selected start menu option: 2
+2025-11-26 18:16|Guest|Choose login option
+2025-11-26 18:17|User2|login
+2025-11-26 18:17|User2|Selected main menu option: 5
+2025-11-26 18:17|User2|Choose EXIT option.
+2025-11-26 18:28|Guest|User selected start menu option: 1
+2025-11-26 18:28|User3|Register.
+2025-11-26 18:28|Guest|Choose register option.
+2025-11-26 18:28|Guest|User selected start menu option: 2
+2025-11-26 18:28|Guest|Choose login option
+2025-11-26 18:28|User3|login
+2025-11-26 18:29|User3|Selected main menu option: 1
+2025-11-26 18:29|User3|create appointment
+2025-11-26 18:29|User3|Choose create appointment option.
+2025-11-26 18:29|User3|Selected main menu option: 2
+2025-11-26 18:29|User3|read appointments
+2025-11-26 18:29|User3|Choose read appointment option.
+2025-11-26 18:29|User3|Selected main menu option: 5
+2025-11-26 18:29|User3|Choose EXIT option.
+2025-11-26 18:30|Guest|User selected start menu option: 2
+2025-11-26 18:30|Guest|Choose login option
+2025-11-26 18:30|Admin|login
+2025-11-26 18:30|Admin|Selected main menu option: 2
+2025-11-26 18:30|Admin|read appointments
+2025-11-26 18:30|Admin|Choose read appointment option.
+2025-11-26 18:30|Admin|Selected main menu option: 3
+2025-11-26 18:30|Admin|admin marked attendance for User3
+2025-11-26 18:30|Admin|Choose update appointment option.
+2025-11-26 18:31|Admin|Selected main menu option: 5
+2025-11-26 18:31|Admin|Choose EXIT option.
+2025-11-26 18:31|Guest|User selected start menu option: 2
+2025-11-26 18:31|Guest|Choose login option
+2025-11-26 18:31|User3|login
+2025-11-26 18:31|User3|Selected main menu option: 2
+2025-11-26 18:31|User3|read appointments
+2025-11-26 18:31|User3|Choose read appointment option.
+2025-11-26 18:31|User3|Selected main menu option: 3
+2025-11-26 18:31|User3|update appointment
+2025-11-26 18:31|User3|Choose update appointment option.
+2025-11-26 18:32|User3|Selected main menu option: 2
+2025-11-26 18:32|User3|read appointments
+2025-11-26 18:32|User3|Choose read appointment option.
+2025-11-26 18:34|User3|Selected main menu option: 5
+2025-11-26 18:34|User3|Choose EXIT option.
+2025-11-26 18:35|Guest|User selected start menu option: 1
+2025-11-26 18:35|User4|Register.
+2025-11-26 18:35|Guest|Choose register option.
+2025-11-26 18:35|Guest|User selected start menu option: 2
+2025-11-26 18:35|Guest|Choose login option
+2025-11-26 18:35|User4|login
+2025-11-26 18:36|User4|Selected main menu option: 1
+2025-11-26 18:36|User4|create appointment
+2025-11-26 18:36|User4|Choose create appointment option.
+2025-11-26 18:36|User4|Selected main menu option: 3
+2025-11-26 18:38|Guest|User selected start menu option: 1
+2025-11-26 18:38|User5|Register.
+2025-11-26 18:38|Guest|Choose register option.
+2025-11-26 18:38|Guest|User selected start menu option: 2
+2025-11-26 18:38|Guest|Choose login option
+2025-11-26 18:38|User5|login
+2025-11-26 18:38|User5|Selected main menu option: 1
+2025-11-26 18:39|User5|create appointment
+2025-11-26 18:39|User5|Choose create appointment option.
+2025-11-26 18:39|User5|Selected main menu option: 2
+2025-11-26 18:39|User5|read appointments
+2025-11-26 18:39|User5|Choose read appointment option.
+2025-11-26 18:39|User5|Selected main menu option: 3
+2025-11-26 18:39|User5|No matching appointment found during update.
+2025-11-26 18:39|User5|Choose update appointment option.
+2025-11-26 18:39|User5|Selected main menu option: 1
+2025-11-26 18:40|User5|create appointment
+2025-11-26 18:40|User5|Choose create appointment option.
+2025-11-26 18:40|User5|Selected main menu option: 2
+2025-11-26 18:40|User5|read appointments
+2025-11-26 18:40|User5|Choose read appointment option.
+2025-11-26 18:40|User5|Selected main menu option: 3
+2025-11-26 18:40|User5|Invalid date during appointment update.
+2025-11-26 18:40|User5|No matching appointment found during update.
+2025-11-26 18:40|User5|Choose update appointment option.
+2025-11-26 18:41|User5|Selected main menu option: 5
+2025-11-26 18:41|User5|Choose EXIT option.
+2025-11-26 18:42|Guest|User selected start menu option: 1
+2025-11-26 18:42|User6|Register.
+2025-11-26 18:42|Guest|Choose register option.
+2025-11-26 18:42|Guest|User selected start menu option: 2
+2025-11-26 18:42|Guest|Choose login option
+2025-11-26 18:42|User6|login
+2025-11-26 18:42|User6|Selected main menu option: 1
+2025-11-26 18:43|User6|create appointment
+2025-11-26 18:43|User6|Choose create appointment option.
+2025-11-26 18:43|User6|Selected main menu option: 2
+2025-11-26 18:43|User6|read appointments
+2025-11-26 18:43|User6|Choose read appointment option.
+2025-11-26 18:43|User6|Selected main menu option: 3
+2025-11-26 18:43|User6|update appointment
+2025-11-26 18:43|User6|Choose update appointment option.
+2025-11-26 18:43|User6|Selected main menu option: 2
+2025-11-26 18:43|User6|read appointments
+2025-11-26 18:43|User6|Choose read appointment option.
+2025-11-26 18:44|User6|Selected main menu option: 4
+2025-11-26 18:44|User6|deleted appointment for User6
+2025-11-26 18:44|User6|Choose delete appointment option.
+2025-11-26 18:44|User6|Selected main menu option: 2
+2025-11-26 18:44|User6|read appointments
+2025-11-26 18:44|User6|Choose read appointment option.
+2025-11-26 18:45|User6|Selected main menu option: 1
+2025-11-26 18:45|User6|create appointment
+2025-11-26 18:45|User6|Choose create appointment option.
+2025-11-26 18:45|User6|Selected main menu option: 2
+2025-11-26 18:45|User6|read appointments
+2025-11-26 18:45|User6|Choose read appointment option.
+2025-11-26 18:45|User6|Selected main menu option: 3
+2025-11-26 18:45|User6|No matching appointment found during update.
+2025-11-26 18:45|User6|Choose update appointment option.
+2025-11-26 18:45|User6|Selected main menu option: 4
+2025-11-26 18:45|User6|Attempted deletion less than 24h in advance.
+2025-11-26 18:45|User6|No matching appointment found during deletion.
+2025-11-26 18:45|User6|Choose delete appointment option.
+2025-11-26 18:46|User6|Selected main menu option: 5
+2025-11-26 18:46|User6|Choose EXIT option.
+2025-11-26 18:46|Guest|User selected start menu option: 2
+2025-11-26 18:46|Guest|Choose login option
+2025-11-26 18:46|Admin|login
+2025-11-26 18:46|Admin|Selected main menu option: 2
+2025-11-26 18:46|Admin|read appointments
+2025-11-26 18:46|Admin|Choose read appointment option.
+2025-11-26 18:46|Admin|Selected main menu option: 4
+2025-11-26 18:47|Admin|deleted appointment for User6
+2025-11-26 18:47|Admin|Choose delete appointment option.
+2025-11-26 18:47|Admin|Selected main menu option: 2
+2025-11-26 18:47|Admin|read appointments
+2025-11-26 18:47|Admin|Choose read appointment option.
+2025-11-26 18:47|Admin|Selected main menu option: 3
+2025-11-26 18:47|Admin|admin marked attendance for User1
+2025-11-26 18:47|Admin|Choose update appointment option.
+2025-11-26 18:48|Admin|Selected main menu option: 2
+2025-11-26 18:48|Admin|read appointments
+2025-11-26 18:48|Admin|Choose read appointment option.
+2025-11-26 18:48|Admin|Selected main menu option: 2
+2025-11-26 18:48|Admin|read appointments
+2025-11-26 18:48|Admin|Choose read appointment option.
+2025-11-26 18:48|Admin|Selected main menu option: 2
+2025-11-26 18:48|Admin|read appointments
+2025-11-26 18:48|Admin|Choose read appointment option.
+2025-11-26 18:48|Admin|Selected main menu option: 5
+2025-11-26 18:48|Admin|Choose EXIT option.
+2025-11-26 18:50|Guest|User selected start menu option: 2
+2025-11-26 18:50|Guest|Choose login option
+2025-11-26 18:50|Admin|login
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 2
+2025-11-26 18:51|Admin|read appointments
+2025-11-26 18:51|Admin|Choose read appointment option.
+2025-11-26 18:51|Admin|Selected main menu option: 5
+2025-11-26 18:51|Admin|Choose EXIT option.
+2025-11-26 18:51|Guest|User selected start menu option: 2
+2025-11-26 18:51|Guest|Choose login option
+2025-11-26 18:51|User5|login
+2025-11-26 18:53|Guest|User selected start menu option: 2
+2025-11-26 18:53|Guest|Choose login option
+2025-11-26 18:53|Admin|login
+2025-11-26 18:53|Admin|Selected main menu option: 2
+2025-11-26 18:53|Admin|read appointments
+2025-11-26 18:53|Admin|Choose read appointment option.
+2025-11-26 18:54|Admin|Selected main menu option: 5
+2025-11-26 18:54|Admin|Choose EXIT option.
+2025-11-26 18:54|Guest|User selected start menu option: 1
+2025-11-26 18:55|Paola|Register.
+2025-11-26 18:55|Guest|Choose register option.
+2025-11-26 18:55|Guest|User selected start menu option: 2
+2025-11-26 18:55|Guest|Choose login option
+2025-11-26 18:55|Paola|login
+2025-11-26 18:55|Paola|Selected main menu option: 1
+2025-11-26 18:56|Paola|create appointment
+2025-11-26 18:56|Paola|Choose create appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 2
+2025-11-26 18:56|Paola|read appointments
+2025-11-26 18:56|Paola|Choose read appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 3
+2025-11-26 18:56|Paola|update appointment
+2025-11-26 18:56|Paola|Choose update appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 2
+2025-11-26 18:56|Paola|read appointments
+2025-11-26 18:56|Paola|Choose read appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 4
+2025-11-26 18:56|Paola|deleted appointment for Paola
+2025-11-26 18:56|Paola|Choose delete appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 2
+2025-11-26 18:56|Paola|read appointments
+2025-11-26 18:56|Paola|Choose read appointment option.
+2025-11-26 18:56|Paola|Selected main menu option: 1
+2025-11-26 18:57|Paola|create appointment
+2025-11-26 18:57|Paola|Choose create appointment option.
+2025-11-26 18:57|Paola|Selected main menu option: 2
+2025-11-26 18:57|Paola|read appointments
+2025-11-26 18:57|Paola|Choose read appointment option.
+2025-11-26 18:57|Paola|Selected main menu option: 1
+2025-11-26 18:57|Paola|create appointment
+2025-11-26 18:57|Paola|Choose create appointment option.
+2025-11-26 18:57|Paola|Selected main menu option: 2
+2025-11-26 18:57|Paola|read appointments
+2025-11-26 18:57|Paola|Choose read appointment option.
+2025-11-26 18:57|Paola|Selected main menu option: 4
+2025-11-26 18:58|Paola|Attempted deletion less than 24h in advance.
+2025-11-26 18:58|Paola|No matching appointment found during deletion.
+2025-11-26 18:58|Paola|Choose delete appointment option.
+2025-11-26 18:58|Paola|Selected main menu option: 0
+2025-11-26 18:58|Paola|Selected main menu option: 5
+2025-11-26 18:58|Paola|Choose EXIT option.
+2025-11-26 18:59|Guest|User selected start menu option: 2
+2025-11-26 18:59|Guest|Choose login option
+2025-11-26 18:59|Admin|login
+2025-11-26 18:59|Admin|Selected main menu option: 2
+2025-11-26 18:59|Admin|read appointments
+2025-11-26 18:59|Admin|Choose read appointment option.
+2025-11-26 18:59|Admin|Selected main menu option: 3
+2025-11-26 19:00|Admin|Invalid username during appointment update.
+2025-11-26 19:00|Admin|Choose update appointment option.
+2025-11-26 19:00|Admin|Selected main menu option: 0
+2025-11-26 19:00|Admin|Selected main menu option: 3
+2025-11-26 19:00|Admin|No matching appointment found during update.
+2025-11-26 19:00|Admin|Choose update appointment option.
+2025-11-26 19:00|Admin|Selected main menu option: 2
+2025-11-26 19:00|Admin|read appointments
+2025-11-26 19:00|Admin|Choose read appointment option.
+2025-11-26 19:01|Admin|Selected main menu option: 3
+2025-11-26 19:01|Admin|admin marked attendance for Paola
+2025-11-26 19:01|Admin|Choose update appointment option.
+2025-11-26 19:01|Admin|Selected main menu option: 2
+2025-11-26 19:01|Admin|read appointments
+2025-11-26 19:01|Admin|Choose read appointment option.
+2025-11-26 19:01|Admin|Selected main menu option: 3
+2025-11-26 19:02|Admin|Admin updated appointment for Paola
+2025-11-26 19:02|Admin|Choose update appointment option.
+2025-11-26 19:02|Admin|Selected main menu option: 2
+2025-11-26 19:02|Admin|read appointments
+2025-11-26 19:02|Admin|Choose read appointment option.
+2025-11-26 19:02|Admin|Selected main menu option: 5
+2025-11-26 19:02|Admin|Choose EXIT option.
+2025-11-26 19:03|Guest|User selected start menu option: 3
+2025-11-26 19:03|Guest|Choose EXIT option.
