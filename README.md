@@ -25,15 +25,23 @@ Incluye funciones de seguridad como **hashing de contraseñas con bcrypt**, **va
 
 ## Ejemplos de Entrada y Salida
 - Registro/Login:
+  
   Choose username: PeterLaAnguila
+  
   Choose password: password123
+  
   User registered successfully. 
 
 - Create Appointment:
+  
   Enter year (YYYY): 2025
+  
   Enter month (MM): 12
+  
   Enter day (DD): 02
+  
   Enter time (HH:MM): 18:30
+  
   Appointment created successfully.
 
 ## Seguridad Implementada
@@ -43,12 +51,20 @@ Incluye funciones de seguridad como **hashing de contraseñas con bcrypt**, **va
 - Manejo de Errores: Mensajes seguros y registro en logfile.txt.
 
 ## Archivos:
-users.txt: Guarda los credenciales.
+- **users.txt:** Guarda los credenciales.
+  
 Ejemplo: 
-  User1|$2b$10$ZaZeCgy0sC3n52uXcJgTD.GcF5bcvIhJbHid9OkuKH.4l/8dCwEc2|user
-appointments.txt: Guarda los turnos/ citas. 
+
+  'User1|$2b$10$ZaZeCgy0sC3n52uXcJgTD.GcF5bcvIhJbHid9OkuKH.4l/8dCwEc2|user'
+  
+- **appointments.txt:** Guarda los turnos/ citas.
+  
 Ejemplo: 
-  User1|2025-12-01 12:00|Attended
-logfile.txt: Registra la actividad del usuario.
+
+  'User1|2025-12-01 12:00|Attended'
+  
+- **logfile.txt:** Registra la actividad del usuario.
+  
 Ejemplo: 
-  2025-11-26 19:02|Admin|Choose EXIT option.
+
+  '2025-11-26 19:02|Admin|Choose EXIT option.'
