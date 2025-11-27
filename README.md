@@ -50,20 +50,23 @@ Incluye funciones de seguridad como **hashing de contraseñas con bcrypt**, **va
 - Validación de entradas: Protección contra SQL Injection y overflow/underflow.
 - Manejo de Errores: Mensajes seguros y registro en logfile.txt.
 
-## Archivos:
-- **users.txt:** Guarda los credenciales.
+## Threat Model
+El archivo (pdf) del Threat Model en donde esta las imagenes de el diagrama de seguridad y la tabla d seguridad, se encuentran dentro de /Mini-App/ThreatModel/ThreatModel.pdf
+
+## Archivos (Los Assets):
+**users.txt:** Guarda los credenciales.
   
 Ejemplo: 
 
   'User1|$2b$10$ZaZeCgy0sC3n52uXcJgTD.GcF5bcvIhJbHid9OkuKH.4l/8dCwEc2|user'
   
-- **appointments.txt:** Guarda los turnos/ citas.
+**appointments.txt:** Guarda los turnos/ citas.
   
 Ejemplo: 
 
   'User1|2025-12-01 12:00|Attended'
   
-- **logfile.txt:** Registra la actividad del usuario.
+**logfile.txt:** Registra la actividad del usuario.
   
 Ejemplo: 
 
