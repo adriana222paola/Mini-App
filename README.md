@@ -18,6 +18,7 @@ Incluye funciones de seguridad como **hashing de contraseñas con bcrypt**, **va
    ```bash
    git clone https://github.com/usuario/mi-proyecto-citas.git
 2. Comandos a seguir para ejectura el código:
+   Luego de estar en la carpeta de Mini-App favor de seguir los siguientes comandos. 
    ```bash
    cd .\Mini-App\
    cl /EHsc Mini-App.cpp bcrypt.cpp blowfish.cpp /Fe:Mini-App.exe
