@@ -1,5 +1,4 @@
-# Mini-App
-# Sistema de Turnos
+# Mini-App: Sistema de Turnos
 
 ## Descripcion: 
 Mini‑App hecha en C++ para un sistema de turnos (citas) con roles de **administrador** y **usuario**.  
@@ -19,6 +18,7 @@ Incluye funciones de seguridad como **hashing de contraseñas con bcrypt**, **va
    ```bash
    git clone https://github.com/usuario/mi-proyecto-citas.git
 2. Comandos a seguir para ejectura el código:
+   ```bash
    cd .\Mini-App\
    cl /EHsc Mini-App.cpp bcrypt.cpp blowfish.cpp /Fe:Mini-App.exe
    .\Mini-App.exe
